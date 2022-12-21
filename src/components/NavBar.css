@@ -1,0 +1,54 @@
+.nav-bar {
+  color: #000;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 33px;
+  padding-right: 32px;
+  font-family: Inter;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 24px;
+  display: flex;
+}
+
+.star-1 {
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+
+.logo {
+  text-transform: capitalize;
+  margin-top: 2px;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.applicants, .company {
+  margin-top: 2px;
+}
+
+.search-field-instance-1 {
+  height: 45%;
+  flex-basis: 21%;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: 360px;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+
+.image {
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 160px;
+}

@@ -1,0 +1,77 @@
+.filtering {
+  color: #fff;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Poppins;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 24px;
+  display: flex;
+}
+
+.rectangle-38 {
+  height: 100%;
+  background-color: #fff;
+  border-radius: 13px;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-right: -375px;
+  padding: 1px 32px 11px 24px;
+  display: flex;
+}
+
+.flex-container-4 {
+  color: #000;
+  height: 70%;
+  flex-direction: column;
+  flex-basis: 10%;
+  justify-content: space-between;
+  align-self: center;
+  align-items: stretch;
+  margin-top: 2px;
+  font-weight: 600;
+  display: flex;
+}
+
+.filter {
+  text-transform: capitalize;
+  margin-left: 1px;
+}
+
+.filter-type-instance-2 {
+  width: 100%;
+  flex-basis: 45%;
+}
+
+.filter-type-instance-3 {
+  height: 35%;
+  flex-basis: 14%;
+}
+
+.filter-type-instance-4 {
+  height: 35%;
+  flex-basis: 10%;
+}
+
+.rectangle-62 {
+  text-align: center;
+  height: 35%;
+  background-color: #196bb3;
+  border-radius: 5px;
+  flex-direction: row;
+  flex-basis: 10%;
+  justify-content: center;
+  align-items: center;
+  margin-left: 218px;
+  padding-top: 2px;
+  font-size: .875rem;
+  line-height: 21px;
+  display: flex;
+}
+
+.text-6 {
+  margin-top: 1px;
+}

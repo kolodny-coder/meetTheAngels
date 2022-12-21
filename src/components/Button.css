@@ -1,0 +1,25 @@
+.button-1 {
+  color: #0d1a26;
+  border: 1px solid #aeb3b7;
+  border-radius: 4px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 16px;
+  font-family: Inter;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 24px;
+  display: flex;
+}
+
+.button-icon {
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+  margin-right: -32px;
+}
+
+.label {
+  margin-left: 16px;
+}

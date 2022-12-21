@@ -1,0 +1,101 @@
+.home-page {
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.nav-bar-instance-1 {
+  width: 100%;
+  flex-basis: 5%;
+}
+
+.flex-container {
+  width: 85%;
+  flex-direction: row;
+  flex-basis: 49%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 8px;
+  margin-left: 13px;
+  display: flex;
+}
+
+.user-profile-card-instance-1 {
+  height: 70%;
+  flex-basis: 24%;
+  margin-top: 22px;
+  margin-bottom: 18px;
+}
+
+.flex-container-1 {
+  height: 100%;
+  flex-direction: column;
+  flex-basis: 74%;
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+}
+
+.filtering-instance-1 {
+  width: 100%;
+  flex-basis: 9%;
+}
+
+.window {
+  width: 100%;
+  background-color: #fff;
+  border-top: 8px solid #0000000d;
+  border-radius: 16px;
+  flex-direction: column;
+  flex-basis: 87%;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 16px;
+  padding-right: 16px;
+  display: flex;
+}
+
+.fund-or-vc-card-instance-1 {
+  width: 90%;
+  flex-basis: 49%;
+  margin-bottom: -40px;
+  margin-left: 2px;
+}
+
+.fund-or-vc-card-1-instance {
+  width: 90%;
+  z-index: 1;
+  flex-basis: 49%;
+  margin-bottom: -40px;
+  margin-right: 1px;
+}
+
+.fund-or-vc-card-2-instance {
+  width: 90%;
+  z-index: 1;
+  flex-basis: 42%;
+  margin-bottom: -230px;
+  margin-right: 1px;
+}
+
+.window-1 {
+  width: 880px;
+  height: 600px;
+  object-fit: cover;
+  border: 1px solid;
+  border-radius: 16px;
+  align-self: flex-end;
+  margin-top: 4px;
+  margin-bottom: 14px;
+}
+
+.footer {
+  width: 1440px;
+  height: 160px;
+  object-fit: cover;
+  margin-top: 6px;
+}

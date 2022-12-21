@@ -1,0 +1,24 @@
+.funding-chip {
+  text-align: center;
+  color: #8d8d8d;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Poppins;
+  font-size: .375rem;
+  font-weight: 500;
+  line-height: 9px;
+  display: flex;
+}
+
+.rectangle-76 {
+  height: 100%;
+  border: .6px solid #8d8d8d;
+  border-radius: 16px;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1px;
+  display: flex;
+}

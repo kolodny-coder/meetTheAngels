@@ -1,0 +1,28 @@
+.search-field {
+  color: gray;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Inter;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 24px;
+  display: flex;
+}
+
+.input-1 {
+  height: 100%;
+  border: 1px solid #aeb3b7;
+  border-radius: 4px;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 17px;
+  display: flex;
+}
+
+.button-instance-1 {
+  height: 100%;
+  flex-basis: 16%;
+}

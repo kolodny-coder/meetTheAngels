@@ -1,0 +1,26 @@
+.my-items {
+  color: #8d8d8d;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 14px;
+  font-family: Poppins;
+  font-size: .625rem;
+  font-weight: 500;
+  line-height: 15px;
+  display: flex;
+}
+
+.vector {
+  width: 9px;
+  height: 14px;
+  object-fit: cover;
+  border: 1px solid #8d8d8d;
+  border-radius: 0 2px 0 0;
+  margin-right: 1px;
+}
+
+.text-4 {
+  text-transform: lowercase;
+  margin-left: 14px;
+}

@@ -1,0 +1,24 @@
+.filter-type {
+  color: #000;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  font-family: Poppins;
+  font-size: .875rem;
+  font-weight: 400;
+  line-height: 21px;
+  display: flex;
+}
+
+.title-1 {
+  text-transform: capitalize;
+}
+
+.vector-3 {
+  width: 10px;
+  height: 6px;
+  object-fit: cover;
+  margin-left: 1px;
+}
